@@ -65,3 +65,13 @@ p {
     background-color: #ccc;
     margin: auto;
 }
+
+/* unvisited link */
+a:link {
+  color: #BC4639;
+}
+
+/* visited link */
+a:visited {
+  color: red;
+}
