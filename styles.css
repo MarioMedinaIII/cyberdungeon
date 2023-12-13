@@ -59,13 +59,13 @@ p {
     margin-right: 200px;
 }
 
+a {
+  color: #BC4639;
+}
+
 .grey-rectangle {
     width: 700px;
     height: 450px;
     background-color: #ccc;
     margin: auto;
-}
-
-a {
-  color: #BC4639;
 }
