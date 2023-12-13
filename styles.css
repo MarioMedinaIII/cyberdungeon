@@ -66,12 +66,6 @@ p {
     margin: auto;
 }
 
-/* unvisited link */
-a:link {
+a {
   color: #BC4639;
-}
-
-/* visited link */
-a:visited {
-  color: red;
 }
